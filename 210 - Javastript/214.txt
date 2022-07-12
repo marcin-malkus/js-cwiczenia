@@ -1,0 +1,18 @@
+Napisz stronę zawierającą obrazek. Po kliknięciu obrazka niech zostanie wypisany adres wyswietlanego obrazka.
+
+Napisz strone zawierajaca cztery obrazki. Obrazki niech będą czarno-białe. Po najechaniu myszą niech stają się kolorowe.
+
+Napisz stronę zawierającą obrazek przedstawiający kostkę do gry. Po kliknięciu na kostke, niech obrazek zmienia się: niech losowo pokazana zostanie ścianka z 1-6 kropkami. Do losowania liczby użyj funkcji Math.random(), przyda ci się też funkcja Math/floor(liczba).
+
+Wiedząc, że guzik można stworzyć znacznikiem <input type="button"  /> napisz stronę zawierającą dwa guziki "napisz kura" i "napisz kogut". Po wciśnięciu guzika w osobnej ramce powinien pojawić się stosowny napis.
+
+Przerób kod z poprzedniego zadania tak, aby napis był dodawany do dotychczasowej zawartości ramki, a nie zastępował ją.
+
+Spraw, żeby samo najechanie myszką na dowolny z przycisków powodowało wyczyszczenie ramki tekstowej.
+
+Na podstawie podanej tabeli napisz generator przemówień.
+
+Zrób stronę z dowolnym napisem ( na przykład "stół z powyłamywanymi nogami") i kilkoma guzikami do zmieniania koloru napisu.
+
+Zrób stronę z czarnym prostokątem, który za każdym kliknięciem myszki będzie się poszerzał o kilka pikseli.
+

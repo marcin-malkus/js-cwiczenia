@@ -1,0 +1,3 @@
+Napisz funkcję, która pokazuje okienko z napisem "akuku". Napisz stronę zawierająca obrazek. Niech kliknięcie na obrazek wywołuje tę funkcję.
+
+Napisz strone zawierającą obrazek. Niech skrypt zlicza, ile razy najechano myszą na obrazek. Kliknięcie na obrazek niech spowoduje wypisanie napisu " najechales myszą na obrazek x razy" i wyzerowanie licznika.

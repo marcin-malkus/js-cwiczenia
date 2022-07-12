@@ -1,0 +1,9 @@
+Napisz minimalistyczną strone internetową zawierającą pojedyńczy link - kliknięcie w link powinno spowodować pojawienie się okienka z napisem "wcisnij ok".
+
+Stwórz strone która przed wczytaniem się w całości wypisuje w okienku napis "witamy na naszej stronie".
+
+Umieść na niej napis " kliknij mnie", który po kliknięciu pokazuje okienko z komunikatem"dziękuje".
+
+Dodaj do strony pojedynczy link o treści "nie klikaj w ten link".
+
+Spraw, aby lik z poprzedniej serii cwiczeń wypisywał komunikat "nigdzie nie pojdziesz", po czym nie otwierał strony docelowej.
